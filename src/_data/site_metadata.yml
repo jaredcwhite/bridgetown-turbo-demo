@@ -4,8 +4,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.metadata.myvariable }}.
 
-title: Your awesome title
-tagline: This site is totally awesome
-email: your-email@example.com
+title: TurboTown
+tagline: A demo of Bridgetown combined with Turbo from the Hotwire project
+email: jared@whitefusion.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+  This is a demo of a Bridgetown site providing fast in-page and full-page navigation via Turbo (featuring both Frames and Streams).
